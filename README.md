@@ -1,4 +1,5 @@
 # ICS_Forge 🗓️
+![CI](https://github.com/realMNohgee/ICS_Forge/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Generate and validate RFC 5545 iCalendar (`.ics`) files from scratch — zero dependencies, pure Python standard library.**
 
